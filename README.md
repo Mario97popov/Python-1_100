@@ -1,0 +1,1 @@
+I designed a structured prompt that enables the AI to act as an adaptive learning assistant. It analyzes my weak areas, generates focused practice tasks, and progressively increases the complexity of each assignment. The goal is to systematically cover all essential topics while reinforcing areas that need improvement.
