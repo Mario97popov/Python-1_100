@@ -5,7 +5,7 @@ def assess_batch(name_batch: str, record_count:int, null_percentage:float):
         my_string += " -> REJECT: batch too small"
     elif null_percentage > 20.0:
         my_string += " -> REJECT: too many nulls"
-    elif null_percentage > 5.0:
+    elif null_percentage >= 10.0:
         my_string += " -> WARNING: elevated nulls"
     else:
         my_string += " -> PASS: batch looks clean"

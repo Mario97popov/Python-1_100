@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f61f4b30-9b39-4e8c-bb7f-7a640d48933c" name="Changes" comment="" />
+    <list default="true" id="f61f4b30-9b39-4e8c-bb7f-7a640d48933c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python6.py" beforeDir="false" afterPath="$PROJECT_DIR$/python6.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +25,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Mario97popov"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Mario97popov/Python-1_100.git",
+    "accountId": "1f010453-673f-49f1-9c81-d665950a438e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -26,14 +52,23 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.python1.executor": "Run",
+    "Python.python10.executor": "Run",
+    "Python.python11.executor": "Run",
+    "Python.python12.executor": "Run",
+    "Python.python13.executor": "Run",
     "Python.python2.executor": "Run",
     "Python.python3.executor": "Run",
     "Python.python4.executor": "Run",
     "Python.python5.executor": "Run",
     "Python.python6.executor": "Run",
+    "Python.python7.executor": "Run",
+    "Python.python8.executor": "Run",
+    "Python.python9.executor": "Run",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }

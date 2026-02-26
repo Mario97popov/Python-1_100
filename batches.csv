@@ -1,0 +1,6 @@
+name,record_count,null_percentage,status
+orders_2024,8500,12.7,WARNING
+returns_2024,500,5.0,REJECT
+products_2024,22000,1.2,PASS
+customers_2024,3100,22.5,REJECT
+inventory_2024,15000,10.0,WARNING

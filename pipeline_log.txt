@@ -1,0 +1,5 @@
+orders_2024 -> records: 8500 | nulls: 12.7%
+returns_2024 -> ERROR: could not parse values
+products_2024 -> ERROR: could not parse values
+customers_2024 -> records: 3100 | nulls: 22.5%
+inventory_2024 -> ERROR: could not parse values
