@@ -1,0 +1,1 @@
+[{"pipeline": "sales_pipeline", "status": "completed", "records": 8500, "errors": 0}, {"pipeline": "orders_pipeline", "status": "failed", "records": 3200, "errors": 14}, {"pipeline": "inventory_pipeline", "status": "completed", "records": 15000, "errors": 2}, {"pipeline": "returns_pipeline", "status": "failed", "records": 500, "errors": 31}]
