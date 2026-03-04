@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f61f4b30-9b39-4e8c-bb7f-7a640d48933c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python20.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,10 @@
     "Python.python15.executor": "Run",
     "Python.python16.executor": "Run",
     "Python.python17.executor": "Run",
+    "Python.python18.executor": "Run",
+    "Python.python19.executor": "Run",
     "Python.python2.executor": "Run",
+    "Python.python20.executor": "Run",
     "Python.python3.executor": "Run",
     "Python.python4.executor": "Run",
     "Python.python5.executor": "Run",
