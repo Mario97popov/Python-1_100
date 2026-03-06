@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f61f4b30-9b39-4e8c-bb7f-7a640d48933c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipeline_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python27.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +63,13 @@
     "Python.python19.executor": "Run",
     "Python.python2.executor": "Run",
     "Python.python20.executor": "Run",
+    "Python.python21.executor": "Run",
+    "Python.python22.executor": "Run",
+    "Python.python23.executor": "Run",
+    "Python.python24.executor": "Run",
+    "Python.python25.executor": "Run",
+    "Python.python26.executor": "Run",
+    "Python.python27.executor": "Run",
     "Python.python3.executor": "Run",
     "Python.python4.executor": "Run",
     "Python.python5.executor": "Run",
